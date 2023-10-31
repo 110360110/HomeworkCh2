@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\課業\大三\應用軟體實習\Homework\HomeworkCH2\.metadata\.plugins\org.eclipse.jdt.core
+1134929068.index
+1865797976.index
+1987898024.index
